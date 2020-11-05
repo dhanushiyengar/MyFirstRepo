@@ -1,0 +1,22 @@
+Array list:
+
+1) An array list is a collection of items stored at contineous memory locations. 
+2)Here there are multiple elements of same type are stored together. 
+3) Here the limitation of the array list is that the size of the array is predifined.
+4) Arrays are slow when compared to linked list.
+5) Good for sorting and accesing.
+
+
+Linked list:
+
+1) Linked List are linear data structures where the elements are not stored in contiguous locations.
+2) Every element is a separate object with a data part and address part. 
+3)The elements are linked using pointers and addresses.
+4) Each element is known as a node. 
+5)Due to ease of insertions and deletions, they are preferred over the arrays. 
+
+
+
+
+
+
